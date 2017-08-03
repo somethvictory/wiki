@@ -7,4 +7,4 @@
 5. [Setting up new Ubuntu 16.04 server with Nginx, Passenger, Postgresql, RVM, Ruby-2.3.1, Rails 5.x](https://github.com/somethvictory/wiki/wiki/Setting-up-new-Ubuntu-16.04-server-with-Nginx,-Passenger,-Postgresql,-RVM,-Ruby-2.3.1,-Rails-5.x)
 
 ### Author
-[Someth Victory](https://githubs.com/somethvictory)
+[Someth Victory](https://github.com/somethvictory)
