@@ -5,6 +5,7 @@
 3. [Basic Nginx setup and configure with passenger](https://github.com/somethvictory/wiki/wiki/Basic-nginx-setup-and-configure-with-passenger)
 4. [Combine all messy commits into one commit before merging into Master](https://github.com/somethvictory/wiki/wiki/Git:-Combine-all-messy-commits-into-one-commit-before-merging-to-Master-branch)
 5. [Setting up new Ubuntu 16.04 server with Nginx, Passenger, Postgresql, RVM, Ruby-2.3.1, Rails 5.x](https://github.com/somethvictory/wiki/wiki/Setting-up-new-Ubuntu-16.04-server-with-Nginx,-Passenger,-Postgresql,-RVM,-Ruby-2.3.1,-Rails-5.x)
+6. [Laravel Feature Specs Config](https://laravel.com/docs/5.4/dusk)
 
 ### Author
 [Someth Victory](https://github.com/somethvictory)
